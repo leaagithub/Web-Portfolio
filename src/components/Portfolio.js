@@ -15,6 +15,9 @@ export default class Porfolio extends Component {
                   <div className="item-wrap">
                     <a href="#modal-01">
                       <img src={`${item.imgurl}`} className="item-img"/>
+                      <div class = "description-box">
+                        Test
+                      </div>
                       <div className="overlay">
                         <div className="portfolio-item-meta">
                           <h5>{item.name}</h5>
@@ -28,6 +31,7 @@ export default class Porfolio extends Component {
             })
           }
           </div>
+          
         </div>
       </div>
   </section>

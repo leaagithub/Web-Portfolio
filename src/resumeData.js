@@ -1,5 +1,5 @@
 let resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/",
+    "imagebaseurl":"https://leaagithub.github.io/Web-Portfolio",
     "name": "Aaron Le",
     "role": "Frontend Developer and Android Developer",
     "linkedinId":"https://www.linkedin.com/in/aaron-le-864ab8162/",
@@ -8,18 +8,13 @@ let resumeData = {
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
+          "url":"https://www.linkedin.com/in/aaron-le-864ab8162/",
           "className":"fa fa-linkedin"
         },
         {
           "name":"github",
           "url":"https://github.com/leaagithub",
           "className":"fa fa-github"
-        },
-        {
-          "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
-          "className":"fa fa-twitter"
         }
       ],
     "aboutme":"I am currently a recent graduate from California State University, Sacramento and pursuing a career in the technology industry. My favorite OS to use at the moment is Chrome OS and I love messing with crostini. Crostini has given me a lot of flexibility when working with project when I am allowed to have linux and chromeOS run side by side. Some of my favorite development tools are reactjs, reactjs-native, and android studio.",
