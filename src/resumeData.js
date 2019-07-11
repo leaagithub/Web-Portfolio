@@ -19,7 +19,7 @@ let resumeData = {
       ],
     "aboutme":"I am currently a recent graduate from California State University, Sacramento and pursuing a career in the technology industry. My favorite OS to use at the moment is Chrome OS and I love messing with crostini. Crostini has given me a lot of flexibility when working with project when I am allowed to have linux and chromeOS run side by side. Some of my favorite development tools are reactjs, reactjs-native, and android studio.",
     "address":"Elk Grove, CA",
-    "website":"https://rbhatia46.github.io",
+    "website":"https://leaagithub.github.io/Web-Portfolio/",
     "education":[
       {
         "UniversityName":"California State University, Sacramento",
@@ -58,6 +58,7 @@ let resumeData = {
         "name":"GISA (Geologist Information Site Assessment)",
         "description":"Full Stack Android and Website Application",
         "imgurl":"../images/portfolio/CalTransLogo.png"
+        
       },
       {
         "name":"SSCAP (Student Service Counselling Appointment Program)",
